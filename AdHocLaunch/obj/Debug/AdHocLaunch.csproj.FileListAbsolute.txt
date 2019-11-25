@@ -1,0 +1,9 @@
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\bin\Debug\AdHocLaunch.exe.config
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\bin\Debug\AdHocLaunch.exe
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\bin\Debug\AdHocLaunch.pdb
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\obj\Debug\AdHocLaunch.csprojResolveAssemblyReference.cache
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\obj\Debug\AdHocLaunch.Properties.Resources.resources
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\obj\Debug\AdHocLaunch.csproj.GenerateResource.Cache
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\obj\Debug\AdHocLaunch.exe
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\obj\Debug\AdHocLaunch.pdb
+c:\users\qanaz_000\documents\visual studio 2013\Projects\AdHocLaunch\AdHocLaunch\obj\Debug\AdHocLaunch.AdHocGui.resources
