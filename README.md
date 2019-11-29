@@ -47,6 +47,3 @@ I have great ideas and want to help with this program. How can I contact you?
 -----------
 E-mail me at qanazoga@gmail.com. I'm always happy to hear your opinions.
 
-This program harmed my computer, released Satan unto the world, and gave the NSA access to every file on earth! I wanna sue you!
------------
-First, that isn't a question. Second, I hold no responsibility for whatever happens to your computer, Earth, the well being of mankind, nor anything else as result of this program. It comes with no warranty and should be used at the users own risk.
